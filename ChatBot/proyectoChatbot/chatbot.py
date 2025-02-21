@@ -3,7 +3,7 @@ from groq import Groq
 import os
 
 # Configuración de la API de OpenAI
-api_key = "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"
+api_key = "API USER" # Remplazar "API USER" por una clave valida
 client = Groq(api_key=api_key)
 model = "mixtral-8x7b-32768"
 
